@@ -18,7 +18,7 @@ const Projects = [
   {
     title: "chromeFriend",
     description:
-      "SF Hacks 2021 Project, me and my team collaberated to build a chrome extention that helps with your productivity!",
+      "SF Hacks 2021 Project, me and my team collaborated to build a chrome extention that helps with your productivity!",
     image: "/images/chromeFriend.png",
     link: "https://github.com/kchan438/SFHacks_Project",
   },
