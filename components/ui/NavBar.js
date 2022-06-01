@@ -22,7 +22,6 @@ export default function Navbar() {
         </div>
         <div className="hidden md:block">
           <ul className="flex space-x-10">
-            <NavItem href="/" text="Home" />
             <NavItem href="https://frankies-fix.vercel.app/" text="Blog" />
           </ul>
         </div>
