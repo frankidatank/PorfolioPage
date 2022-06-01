@@ -34,7 +34,7 @@ export default function Footer() {
         </span>
         <span className="inline-flex justify-center mt-4 space-x-5 sm:ml-75% sm:mt-0 sm:justify-start">
           <a
-            href="https://www.linkedin.com/in/frankie-murillo-499445174/"
+            href="https://www.linkedin.com/in/frankie-murillo/"
             className="text-gray-400 hover:text-gray-500"
             target="_blank"
           >
